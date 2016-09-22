@@ -1,0 +1,9 @@
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\bin\Debug\UnityEditor.Networking.pdb
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\bin\Debug\UnityEditor.dll
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\bin\Debug\UnityEngine.dll
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\bin\Debug\UnityEngine.Networking.pdb
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\obj\Debug\UnityEditor.Networking.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\obj\Debug\UnityEditor.Networking.dll
+C:\Users\Rafa\Desktop\Unity-Technologies-networking-e998e3faafcb\Editor\obj\Debug\UnityEditor.Networking.pdb
